@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="Truck_Your_Expense">Track Your Expense, Live Better</string> <string name="RegImg_desc">Expense Tracker Logo</string>
+
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_subtitle">Sign in to manage your portfolio</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_placeholder">admin@rohullah.dev</string>
+    <string name="password_label">Password</string>
+    <string name="password_placeholder">••••••••••••</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="register_link">Register</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Join us to start tracking your portfolio</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="full_name_placeholder">John Doe</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="forgot_password_subtitle">Enter your email address and we will send you a link to reset your password.</string>
+    <string name="reset_button">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string name="ai_screen_title">AI Financial Audit</string>
+    <string name="ai_screen_subtitle">Personalized insights from your data</string>
+    <string name="health_score_label">Financial Health Score</string>
+    <string name="insight_savings_title">Potential Savings</string>
+    <string name="insight_savings_body">If you cut back 20%% on %1$s, you could save $%2$.2f.</string>
+    <string name="insight_alert_title">Smart Alert</string>
+
+    <string name="warn_high_discretionary">High discretionary spending detected.</string>
+    <string name="warn_limit_approach">You are approaching your monthly limit.</string>
+</resources>
